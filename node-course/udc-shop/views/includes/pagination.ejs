@@ -1,0 +1,7 @@
+<section class="pagination">
+    <%if(currPage!=1&&prevPage!=1){%><a href="?page=1">1</a><%}%>
+    <%if(hasPrevPage){%><a href="?page=<%=prevPage%>"><%=prevPage%></a><%}%>
+    <a href="?page=<%=currPage%>"class="active"><%=currPage%></a>
+    <%if(hasNextPage){%><a href="?page=<%=nextPage%>"><%=nextPage%></a><%}%>
+    <%if(lastPage!=currPage&&lastPage!=nextPage){%><a href="?page=<%=lastPage%>"><%=lastPage%></a><%}%>
+</section>
