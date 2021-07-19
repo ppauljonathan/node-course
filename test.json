@@ -1,0 +1,50 @@
+[
+    {
+        "Student_ID":1,
+        "Name":"Paul",
+        "DOB":"03-02-2002",
+        "Age":19,
+        "Belonging_State":"Uttar Pradesh",
+        "Phn":9919103121
+    },
+    {
+        "Student_ID":2,
+        "Name":"PaulJ",
+        "DOB":"03-01-2002",
+        "Age":12,
+        "Belonging_State":"Andhra Pradesh",
+        "Phn":9919103111
+    },
+    {
+        "Student_ID":3,
+        "Name":"Paul",
+        "DOB":"03-02-2009",
+        "Age":193,
+        "Belonging_State":"Arunachal Pradesh",
+        "Phn":99191345341
+    },
+    {
+        "Student_ID":4,
+        "Name":"Prince",
+        "DOB":"01-01-2001",
+        "Age":19,
+        "Belonging_State":"Uttar Pradesh",
+        "Phn":9919103121
+    },
+    {
+        "Student_ID":5,
+        "Name":"Pag",
+        "DOB":"03-12-2002",
+        "Age":19,
+        "Belonging_State":"Uttar Pradesh",
+        "Phn":903121
+    },
+    {
+        "Student_ID":6,
+        "Name":"Pamela",
+        "DOB":"03-02-2001",
+        "Age":20,
+        "Belonging_State":"Arunachal Pradesh",
+        "Phn":9919103231
+    }
+]
